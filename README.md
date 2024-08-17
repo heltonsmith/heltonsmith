@@ -2,7 +2,7 @@
 
 ![Banner de Perfil](https://www.joystick.com.mx/wp-content/uploads/2021/06/YYY-1024x341.jpg)
 
-Soy un **Ingeniero en Informática** con más de 15 años de experiencia en la industria tecnológica y la educación superior. Mi pasión radica en el **desarrollo de software multiplataforma** y en la **formación de nuevos talentos** en el ámbito de la programación y la tecnología. Mi objetivo es seguir contribuyendo al crecimiento y desarrollo de soluciones innovadoras que impulsen el futuro digital.
+**Ingeniero en Informática** con más de 15 años de experiencia en la industria tecnológica y la educación superior. Mi pasión radica en el **desarrollo de software multiplataforma** y en la **formación de nuevos talentos** en el ámbito de la programación y la tecnología. Mi objetivo es seguir contribuyendo al crecimiento y desarrollo de soluciones innovadoras que impulsen el futuro digital.
 
 ---
 
@@ -29,7 +29,7 @@ Soy un **Ingeniero en Informática** con más de 15 años de experiencia en la i
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Algunas Tecnologías y Herramientas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
