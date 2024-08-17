@@ -1,6 +1,6 @@
 # 👋 Hola, soy Helton Smith Bustos Sáez
 
-![Banner de Perfil]([[https://user-images.githubusercontent.com/tu-url-de-imagen/banner.png](https://www.joystick.com.mx/wp-content/uploads/2021/06/YYY-1024x341.jpg)](https://www.joystick.com.mx/wp-content/uploads/2021/06/YYY-1024x341.jpg))
+![Banner de Perfil](https://www.joystick.com.mx/wp-content/uploads/2021/06/YYY-1024x341.jpg)
 
 Soy un **Ingeniero en Informática** con más de 15 años de experiencia en la industria tecnológica y la educación superior. Mi pasión radica en el **desarrollo de software multiplataforma** y en la **formación de nuevos talentos** en el ámbito de la programación y la tecnología. Mi objetivo es seguir contribuyendo al crecimiento y desarrollo de soluciones innovadoras que impulsen el futuro digital.
 
@@ -10,7 +10,8 @@ Soy un **Ingeniero en Informática** con más de 15 años de experiencia en la i
 
 - **🎓 Formación Académica:** 
   - Licenciado en Ciencias de la Ingeniería, Universidad de las Américas (UDLA) - 2008.
-  - Magíster en Full Stack, Universidad Politécnica de Cataluña (UPC) - 2023.
+  - Magíster en Desarrollo Full Stack, Inesdi Business Techschool - 2023.
+  - Magíster en Full Stack, Universidad Politécnica de Cataluña (UPC) - 2024.
 
 - **💻 Experiencia Profesional:** 
   - Desarrollo Full Stack, Soporte y Consultoría TI para múltiples empresas e instituciones académicas.
@@ -77,7 +78,7 @@ Soy un **Ingeniero en Informática** con más de 15 años de experiencia en la i
 
 ## 📚 Certificaciones
 
-![Certificaciones](https://www.joystick.com.mx/wp-content/uploads/2021/06/YYY-1024x341.jpg)
+![Certificaciones](https://assets-global.website-files.com/5ec204f268335d3c1a36707e/5ec22b0d4930cd2e518710fb_certificaciones.png)
 
 - **Oracle Certified Professional, Java SE 6 Programmer**
 - **Certified PCEP Python Programmer**
