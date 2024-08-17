@@ -62,13 +62,6 @@ Soy un **Ingeniero en Informática** con más de 15 años de experiencia en la i
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark)
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dark)
-
----
-
 ## 📫 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heltonsmith)
