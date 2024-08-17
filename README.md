@@ -77,7 +77,7 @@ Soy un **Ingeniero en Informática** con más de 15 años de experiencia en la i
 
 ## 📚 Certificaciones
 
-![Certificaciones]((https://www.joystick.com.mx/wp-content/uploads/2021/06/YYY-1024x341.jpg))
+![Certificaciones](https://www.joystick.com.mx/wp-content/uploads/2021/06/YYY-1024x341.jpg)
 
 - **Oracle Certified Professional, Java SE 6 Programmer**
 - **Certified PCEP Python Programmer**
