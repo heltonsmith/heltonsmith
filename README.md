@@ -71,8 +71,6 @@ Soy un **Ingeniero en Informática** con más de 15 años de experiencia en la i
 
 ## 📚 Certificaciones
 
-![Certificaciones](https://assets-global.website-files.com/5ec204f268335d3c1a36707e/5ec22b0d4930cd2e518710fb_certificaciones.png)
-
 - **Oracle Certified Professional, Java SE 6 Programmer**
 - **Certified PCEP Python Programmer**
 - **Django Application Development with SQL - IBM edX**
