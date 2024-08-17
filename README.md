@@ -1,6 +1,6 @@
 # 👋 Hola, soy Helton Smith Bustos Sáez
 
-![Banner de Perfil](https://user-images.githubusercontent.com/tu-url-de-imagen/banner.png)
+![Banner de Perfil]([https://user-images.githubusercontent.com/tu-url-de-imagen/banner.png](https://www.joystick.com.mx/wp-content/uploads/2021/06/YYY-1024x341.jpg))
 
 Soy un **Ingeniero en Informática** con más de 15 años de experiencia en la industria tecnológica y la educación superior. Mi pasión radica en el **desarrollo de software multiplataforma** y en la **formación de nuevos talentos** en el ámbito de la programación y la tecnología. Mi objetivo es seguir contribuyendo al crecimiento y desarrollo de soluciones innovadoras que impulsen el futuro digital.
 
